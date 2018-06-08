@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>745883330642-6mfiolb7hcrkfmr1bhafm0i7qqmpeffg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.745883330642-6mfiolb7hcrkfmr1bhafm0i7qqmpeffg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClz5yUyKnIXOlZsSVs_utQL__oQ648kCo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>745883330642</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.antoniocortes.antialcoholicas</string>
+	<key>PROJECT_ID</key>
+	<string>antialcoholicas-30912</string>
+	<key>STORAGE_BUCKET</key>
+	<string>antialcoholicas-30912.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:745883330642:ios:88891c25a8fd14d8</string>
+	<key>DATABASE_URL</key>
+	<string>https://antialcoholicas-30912.firebaseio.com</string>
+</dict>
+</plist>
