@@ -7,5 +7,6 @@ target 'antialcoholicas' do
 
   # Pods for antialcoholicas
   pod 'Firebase/Core'
+  pod 'FirebaseAuth'
 
 end
